@@ -18,8 +18,9 @@ redirect_from:
 If you wanna see more details, please click 'CV' at the top menu
 
 I finished my bachelor degree in Heilongjiang University, Harbin, China. I studied civil engineering - Hydraulic Engineering.
-I graduated sixth in my major with 90. My bachelor degree bring me a great foundation in mathmatics and physics, and structural mind when experiencing problems.
 
-I having my master degree in King's College London, and I started to get in touch with lot of robotics courses, like Robotics System, Real-time System, Machine Learning, Sensor and Actuator. I achieved distinction grades in these courses, and felt like they take me to a new world - robotics. In this field, I could ultilize lot of advanced technology to address the existing problem, enabling robots perform better and do what humans could not done. Quite Challenging and I love Chanllenging!
+I graduated sixth in my major with a GPA of 90, which provided me with a strong foundation in mathematics and physics. This background cultivated a structured mindset that allows me to approach problems systematically.
 
-Therefore, I chose robot control optimization via reinforcement learning as my final thesis. I learned a lot of RL and robotics dynamic, control knowledge. 
+For my master's degree at King's College London, I delved into various robotics courses, including Robotics Systems, Real-time Systems, Machine Learning, and Sensor and Actuator technologies. I achieved distinction grades in these courses, and they opened up a new world for me - the world of robotics. In this field, I discovered the opportunity to leverage advanced technologies to address complex problems, enabling robots to outperform human capabilities. this problems are quite challenging, but I love Chanllenging!
+
+This newfound passion led me to choose "robot control optimization via reinforcement learning" as the topic for my final thesis. During this process, I acquired valuable knowledge in reinforcement learning and dynamic control within the field of robotics. I wish I could learn further in this field.
