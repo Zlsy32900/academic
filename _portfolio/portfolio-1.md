@@ -40,10 +40,4 @@ Secondly, during random dragging tests where the robot experiences unpredictable
     <source src="introduction.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-
-
-
-
-
-
-
+https://youtu.be/4grVbI8qVRc
